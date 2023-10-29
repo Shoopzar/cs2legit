@@ -6,7 +6,7 @@ Images added here is going to show:
 - Second image is with the cheat activated.  
 
 
-## See players through walls (#1)
+## See players through walls
 This command is named r_aoproxy_show.  
 Activation: True  
 Deactivation: False   

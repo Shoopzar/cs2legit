@@ -8,5 +8,5 @@ Images added here is going to show:
 
 ## See players through walls (#1)
 This command is named r_aoproxy_show, and to activate and deactive use **true** or **false**.  
-![raoproxy](image)
+![raoproxy](https://github.com/Shoopzar/cs2legit/blob/main/images/raoproxyshow.png)
 

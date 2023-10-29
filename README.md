@@ -22,7 +22,7 @@ Deactivation: 0
 This command is named r_directlightning.  
 Activation: False  
 Deactivation: True       
-![rdirectlighting](https://github.com/Shoopzar/cs2legit/blob/main/images/rdirectlighting.png)
+![rdirectlighting](https://github.com/Shoopzar/cs2legit/blob/main/images/rdirectlightning.png)
 
 ## Change the lighting of players
 This command is named r_indirectlighting.  

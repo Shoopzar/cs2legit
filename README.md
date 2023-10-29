@@ -1,6 +1,9 @@
 # Counter-Strike 2 - Sv_Cheats 1
-Welcome to my GitHub about Sv_Cheats 1 cheats. Below this text are you going to find Images.   
-First Image is without the cheat activated. And second image is with cheat turned on.  
+Welcome to my GitHub about Sv_Cheats 1 cheats. 
+
+Images added here is going to show:  
+- First Image is with the cheat deactivated.  
+- Second image is with the cheat activated.  
 
 
 ## See players through walls (#1)

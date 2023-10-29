@@ -7,6 +7,27 @@ Images added here is going to show:
 
 
 ## See players through walls (#1)
-This command is named r_aoproxy_show, and to activate and deactive use **true** or **false**.  
+This command is named r_aoproxy_show.  
+Activation: True  
+Deactivation: False   
 ![raoproxy](https://github.com/Shoopzar/cs2legit/blob/main/images/raoproxyshow.png)
+
+## Change the world lightning to brightest
+This command is named mat_fullbright.  
+Activation: 1  
+Deactivation: 0  
+![matfullbright](https://github.com/Shoopzar/cs2legit/blob/main/images/matfullbright.png)
+
+## Change the world lightning to be a bit darker
+This command is named r_directlightning.  
+Activation: False  
+Deactivation: True       
+![rdirectlighting](https://github.com/Shoopzar/cs2legit/blob/main/images/rdirectlighting.png)
+
+## Change the lighting of players
+This command is named r_indirectlighting.  
+Activation: False  
+Deactivation: True       
+![rindirectlighting](https://github.com/Shoopzar/cs2legit/blob/main/images/rindirectlighting.png)
+
 
